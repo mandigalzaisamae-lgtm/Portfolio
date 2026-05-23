@@ -26,7 +26,7 @@ I’m a 1st year Electronics Engineering student passionate about discovering ne
 - 🎓 **Senior High School** – Quinlogan National High School, Senior High School Grade: 94
 - 📜 Leadership Awards
 
--📜 MTAP
+- 📜 MTAP
 
 
 ---
