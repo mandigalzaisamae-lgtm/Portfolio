@@ -35,6 +35,7 @@ I’m a 1st year Electronics Engineering student passionate about discovering ne
 ### 🛠️ Skills & Tech Stack
 
 | Skills | Level |
+|-----------|------------|
 | C++    | beginner |
 | Arduino| beginner |
 | PCB design | beginner |
